@@ -35,7 +35,9 @@ Output:
 Open the python file which has the above code on PC.
 This will generate a QR-code.!
 
-![image](https://github.com/user-attachments/assets/5de98715-6006-4bb0-920e-2955565ea41e)
+### 🔗 QR Code to Access File Sharing Server
+![QR Code](https://raw.githubusercontent.com/YourUsername/YourRepo/main/image.png)
+
 
 
 .Either Scan the QR-code or type the IP Address shown in the python shell in your mobile browser.
