@@ -35,7 +35,8 @@ Output:
 Open the python file which has the above code on PC.
 This will generate a QR-code.!
 
-https://media.geeksforgeeks.org/wp-content/uploads/20210222205858/QrCode.png
+![image](https://github.com/user-attachments/assets/5de98715-6006-4bb0-920e-2955565ea41e)
+
 
 .Either Scan the QR-code or type the IP Address shown in the python shell in your mobile browser.
 
