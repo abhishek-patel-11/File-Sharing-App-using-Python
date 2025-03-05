@@ -30,7 +30,24 @@ Place the files inside the designated file-sharing folder.
 Scan the QR code or enter the server’s IP address in a web browser.
 Download securely using the web interface.
 
+Output:
+
+Open the python file which has the above code on PC.
+This will generate a QR-code.!
+[image](https://github.com/user-attachments/assets/3c944f1e-5d67-40cb-b2f7-e7686e99057b)
+
+.Either Scan the QR-code or type the IP Address shown in the python shell in your mobile browser.
+
+![image](https://github.com/user-attachments/assets/d7b6d8b0-8244-4ea4-8c6d-166f65bc3be0)
+
+
+Share the files with ease by scanning the QR-code that’s generated and get access to the files in PC, from the mobile browser.
+
+
+
 📸 Project Screenshots
+
+![image](https://github.com/user-attachments/assets/c0dcd7d2-4c4b-464d-8604-0852890ad789)
 
 
 
