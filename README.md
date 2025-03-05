@@ -12,7 +12,7 @@ A **Python-based secure file-sharing system** that enhances data transfer speed 
 - **Programming Language:** Python  
 - **Networking:** Socket Programming, HTTP Server  
 - **Security Features:** IP Whitelisting, QR Code-Based Authentication  
-- **Libraries Used:** `socket`, `http.server`, `qrcode`, `os`  
+- **Libraries Used:** `socket`, `http.server`, `qrcode`, `os`
 
 ## 🚀 Installation & Usage  
 
@@ -20,3 +20,29 @@ A **Python-based secure file-sharing system** that enhances data transfer speed 
 Ensure you have **Python 3+** installed. Install required dependencies using:  
 ```sh
 pip install qrcode[pil]
+
+⚡ Run the Server
+  python server.py
+The server will start and display a QR code for secure access.
+
+📤 Sharing Files
+Place the files inside the designated file-sharing folder.
+Scan the QR code or enter the server’s IP address in a web browser.
+Download securely using the web interface.
+
+📸 Project Screenshots
+
+
+
+🛡 Security Measures
+IP Whitelisting: Ensures only authorized users can connect.
+Encrypted File Transfers: Secures data in transit.
+QR Code Authentication: Prevents unauthorized file access.
+
+👨‍💻 Author
+Abhishek Kumar Patel
+📧 Email Me | 🔗 LinkedIn
+
+📜 License
+This project is open-source under the MIT License.
+
